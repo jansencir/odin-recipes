@@ -12,7 +12,7 @@ h1 {
     font-size: 35px;
 }
 
-.recipe {
+.card .recipe {
     background-color: aliceblue;
     color: black;
     display: block;
